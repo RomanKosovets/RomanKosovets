@@ -9,8 +9,6 @@ I'm Roman Kosovets, a student of the [Information Technologies and Programming](
 - :martial_arts_uniform: Athlete, i love everything related to sports
  
 ## :scroll: Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKosovets&layout=compact&theme=vision-friendly-dark)](https://github.com/RomanKosovets/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKosovets&layout=compact&theme=vision-friendly-dark)](https://github.com/RomanKosovets/github-readme-stats)
