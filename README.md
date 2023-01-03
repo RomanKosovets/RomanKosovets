@@ -8,7 +8,7 @@ I'm Roman Kosovets, a student of the [Information Technologies and Programming](
 - :computer: Interested in Data science 
 - :martial_arts_uniform: Athlete, i love everything related to sports
 
-## Links
+## :link: Links
 <div id="badges">
   <a href="https://t.me/CyClik_V_Kaske">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
