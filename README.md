@@ -8,8 +8,9 @@ I'm Roman Kosovets, a student of the [Information Technologies and Programming](
 - :computer: Interested in Data science 
 - :martial_arts_uniform: Athlete, i love everything related to sports
  
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
+ ## :scroll: Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
 
 ## :link: Links
 <div id="badges">
