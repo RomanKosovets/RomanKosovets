@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## 	:label: Info
-I'm Roman Kosovets, a student of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) department at the ITMO University in Saint-Petersburg, Russia.
+I'm Roman Kosovets, a student of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) department at the [ITMO University](https://en.itmo.ru/en/) in Saint-Petersburg, Russia.
 
 - :man_student: Second year student
 - :computer: Interested in Data science 
