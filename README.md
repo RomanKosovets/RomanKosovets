@@ -15,7 +15,7 @@
   </a>
 </div>
 
-- :telescope: I’m studing at ITMO Software Engineer and contributing to frontend and backend for building web applications.
+:telescope: I’m studing at ITMO Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
