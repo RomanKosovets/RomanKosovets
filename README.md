@@ -10,6 +10,7 @@ I'm Roman Kosovets, a student of the [Information Technologies and Programming](
  
  ## :scroll: Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
 
 ## :link: Links
