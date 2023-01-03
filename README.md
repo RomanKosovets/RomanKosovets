@@ -11,11 +11,9 @@ I'm Roman Kosovets, a student of the [Information Technologies and Programming](
 ## :scroll: Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=RomanKosovets&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKosovets&layout=compact&theme=vision-friendly-dark)](https://github.com/RomanKosovets/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKosovets&layout=compact&theme=vision-friendly-dark)](https://github.com/RomanKosovets/github-readme-stats)
 
 ## :wrench: My tools
 ###	:books: Languages
