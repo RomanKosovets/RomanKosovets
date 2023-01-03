@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Vkontakte-red?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
