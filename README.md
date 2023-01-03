@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student at ITMO University from Russia </h3>
 
 ## Links
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/CyClik_V_Kaske">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
