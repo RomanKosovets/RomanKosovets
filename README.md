@@ -13,6 +13,9 @@ I'm Roman Kosovets, a student of the [Information Technologies and Programming](
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKosovets)](https://github.com/RomanKosovets/github-readme-stats)
 
+## :wrench: My tools
+ ## Languages:
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## :link: Links
 <div id="badges">
   <a href="https://t.me/CyClik_V_Kaske">
