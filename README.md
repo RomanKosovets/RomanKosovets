@@ -1,12 +1,10 @@
 <h1 align="center">Hi there, I'm Roman
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
-
-## Info
+## 	:label: Info
 I'm Roman Kosovets, a student of the Information Technologies and Programming department at the ITMO University in Saint-Petersburg, Russia.
 
-- ::man_student: Second year student
+- :man_student: Second year student
 - :computer: Interested in Data science 
 - :martial_arts_uniform: Athlete, i love everything related to sports
 
