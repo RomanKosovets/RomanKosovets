@@ -18,13 +18,14 @@ I'm Roman Kosovets, a student of the [Information Technologies and Programming](
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![JAVA](https://img.shields.io/badge/JAVA-%23121011.svg?style=for-the-badge&logo=gnu-java&logoColor=orange)
  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
  
  ### 	:package: IDEs and Instruments
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) 
   ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-  ![JAVA](https://img.shields.io/badge/JAVA-orange)
 ## :link: Links
 <div id="badges">
   <a href="https://t.me/CyClik_V_Kaske">
