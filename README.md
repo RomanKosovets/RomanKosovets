@@ -5,7 +5,7 @@
 I'm Roman Kosovets, a graduate of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) faculty at [ITMO University](https://en.itmo.ru/en/) in Saint-Petersburg, Russia.
 
 - :bear: Skipped *The College Dropout*, survived *Late Registration* — this is my **Graduation** :mortar_board:
-- :gear: Middle DevOps Engineer at <img src="https://www.google.com/s2/favicons?domain=chestnyznak.ru&sz=64" height="16"/> [Честный ЗНАК](https://chestnyznak.ru/)
+- :gear: Middle DevOps Engineer at [Честный ЗНАК](https://chestnyznak.ru/)
 
 ## :wrench: My tools
 ### :books: Languages
